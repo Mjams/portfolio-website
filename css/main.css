@@ -19,6 +19,10 @@
   position: absolute;
 }
 
+.max-height {
+  max-height: 640px;
+}
+
 .max-img {
   max-width: 550px;
 }
