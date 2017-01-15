@@ -17,3 +17,63 @@
   padding-left: .75em;
   margin-top: -2em;
 }
+
+/*Orginals before the media Queries*/
+
+.logo{
+  width: 75px;
+}
+
+.txt{
+  padding-top: 7em;
+}
+
+.portfolio-figure{
+  padding: 0 .75em 0 .75em;
+}
+
+
+@media only screen and (min-width: 38em) {
+
+  .logo{
+    width: 100px;
+  }
+
+  .txt{
+    padding-top: 12em;
+  }
+
+  .portfolio-figure{
+    padding: 0 1.25em 0 1.25em;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+
+  .logo{
+    width: 125px;
+  }
+
+  .txt{
+    padding-top: 20em;
+  }
+
+  .portfolio-figure{
+    padding: 1em 5em 1em 5em;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+
+  .logo{
+    width: 150px;
+  }
+
+  .txt{
+    padding-top: 23em;
+  }
+
+  .portfolio-figure{
+    padding: 1em 8em 1em 8em;
+  }
+}

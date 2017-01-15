@@ -9,14 +9,6 @@ html {
   line-height: 1.3;
 }
 
-.logo{
-  width: 75px;
-}
-
-.txt{
-  padding-top: 7em;
-}
-
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -431,14 +423,6 @@ legend {
     line-height: 1.4;
   }
 
-  .logo{
-    width: 100px;
-  }
-
-  .txt{
-    padding-top: 12em;
-  }
-
   h1,
   h2,
   h3,
@@ -746,14 +730,6 @@ legend {
     line-height: 1.5;
   }
 
-  .logo{
-    width: 125px;
-  }
-
-  .txt{
-    padding-top: 20em;
-  }
-
   h1,
   h2,
   h3,
@@ -1059,10 +1035,6 @@ legend {
   html {
     font-size: 130%;
     line-height: 1.5;
-  }
-
-  .logo{
-    width: 150px;
   }
 
   h1,
