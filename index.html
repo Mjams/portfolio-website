@@ -2,23 +2,13 @@
 layout: default
 ---
 
-<header class="text-center">
-  <nav>
-    <ul>
-      <li class="inline-block"><a class="nav-a" href="{{site.baseurl}}/">Home</a></li>
-      <li class="island inline-block"><img class="logo" src="images/maggie-paquette-logo.svg" alt="Personal logo for Maggie Paquette"></li>
-      <li class="inline-block"><a class="nav-a" href="{{site.baseurl}}/portfolio/">Work</a></li>
-    </ul>
-  </nav>
-</header>
-
 <main>
   <h1>Maggie Paquette</h1>
   <h2>Portfolio Website</h2>
 
-  <div class="grid about-me">
-    <div class="pad-bottom-half unit s-1 m-1-2 l-1-2">
-      <img class="img-flex" src="http://placehold.it/200x200" alt="illustration of maggie paquette">
+  <div class="grid about-me interactive-space">
+    <div class="unit s-1 m-1-2 l-1-2">
+      <img class="max-img img-flex" src="{{site.baseurl}}/images/about-me-char.png" alt="illustration of maggie paquette">
     </div>
     <div class="island unit s-1 m-1-2 l-1-2">
       <h3>This is Me</h3>
@@ -34,7 +24,7 @@ layout: default
     <img class="banner-img img-flex" src="http://placehold.it/700x500" alt="">
   </div>
 
-  <div class="grid contact">
+  <div class="grid contact interactive-space">
     <div class="island unit s-1 m-1-2 l-1-2">
       <h3>Let's Talk</h3>
       <p><a href="mailto:maggie.paquette200@gmail.com">Email Me</a></p>
@@ -53,5 +43,5 @@ layout: default
 
 <footer>
   <h4>---Call to action---</h4>
-  <a href="">---Back to top---</a>
+  <a href="{{site.baseurl}}/">---Back to top---</a>
 </footer>
