@@ -10,3 +10,10 @@
   width: 100%;
   position: absolute;
 }
+
+.fig-caption {
+  text-transform: uppercase;
+  font-weight: bolder;
+  padding-left: .75em;
+  margin-top: -2em;
+}
