@@ -1,4 +1,4 @@
-.nav-a {
+a {
   text-decoration: none;
 }
 
@@ -17,12 +17,9 @@
   position: absolute;
 }
 
-.max-height {
-  max-height: 640px;
-}
-
 .max-img {
-  max-width: 550px;
+  margin: 0 auto;
+  max-width: 400px;
 }
 
 .fig-caption {
@@ -42,6 +39,11 @@
   padding-top: 7em;
 }
 
+.title{
+  margin: 0;
+  padding-bottom: .2em;
+}
+
 .portfolio-figure {
   padding: 0 .75em 0 .75em;
 }
@@ -52,6 +54,11 @@
 
 .social-icon {
   width: 50px;
+  padding: 0 .25em 0 .25em;
+}
+
+.used-program-icon {
+  width: 70px;
   padding: 0 .25em 0 .25em;
 }
 

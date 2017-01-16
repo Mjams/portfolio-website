@@ -14,6 +14,11 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 
+p {
+  overflow: hidden;
+  max-width: 450px;
+}
+
 sub,
 sup {
   font-size: 75%;
