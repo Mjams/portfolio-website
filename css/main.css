@@ -2,6 +2,10 @@ a {
   text-decoration: none;
 }
 
+ul {
+  margin: 0;
+}
+
 .banner-img {
   position: relative;
 }
