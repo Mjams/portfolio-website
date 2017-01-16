@@ -1,13 +1,12 @@
 .nav-a {
   text-decoration: none;
-  padding-bottom: 1em;
 }
 
 .banner-img {
   position: relative;
 }
 
-.nav-li{
+.nav-li {
   position: relative;
   top: -.25em;
   padding: 0 1em 0 1em;
@@ -51,6 +50,11 @@
   padding: 0 .75em 0 .75em;
 }
 
+.social-icon {
+  width: 50px;
+  padding: 0 .25em 0 .25em;
+}
+
 @media only screen and (min-width: 38em) {
 
   .logo {
@@ -86,6 +90,11 @@
 
   .interactive-space {
     padding: 0 5em 0 5em;
+  }
+
+  .social-icon {
+    width: 65px;
+    padding: 0 .3em 0 .3em;
   }
 }
 
