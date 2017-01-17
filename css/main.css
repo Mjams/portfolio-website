@@ -1,3 +1,10 @@
+/*
+  purple: #a983bb;
+  aqua: #26bbb3;
+  tan: #d2b887;
+ */
+
+
 a {
   text-decoration: none;
 }
@@ -27,6 +34,8 @@ ul {
 }
 
 .fig-caption {
+  color: #fff;
+  text-shadow: 1px 1px 4px #000;
   text-transform: uppercase;
   font-weight: bolder;
   padding-left: .75em;
