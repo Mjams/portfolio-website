@@ -28,6 +28,10 @@ ul {
   position: absolute;
 }
 
+.thumbnail-max {
+  max-width: 550px;
+}
+
 .max-img {
   margin: 0 auto;
   max-width: 400px;
@@ -133,6 +137,6 @@ ul {
   }
 
   .interactive-space {
-    padding: 0 8em 0 8em;
+    padding: 0 10em 0 10em;
   }
 }
