@@ -61,10 +61,6 @@ ul {
   padding-bottom: .2em;
 }
 
-.portfolio-figure {
-  padding: 0 .75em 0 .75em;
-}
-
 .interactive-space {
   padding: 0 .75em 0 .75em;
 }
@@ -89,10 +85,6 @@ ul {
     padding-top: 12em;
   }
 
-  .portfolio-figure {
-    padding: 0 1.25em 0 1.25em;
-  }
-
   .interactive-space {
     padding: 0 1em 0 1em;
   }
@@ -106,10 +98,6 @@ ul {
 
   .txt {
     padding-top: 20em;
-  }
-
-  .portfolio-figure {
-    padding: 1em 5em 1em 5em;
   }
 
   .interactive-space {
@@ -130,10 +118,6 @@ ul {
 
   .txt {
     padding-top: 23em;
-  }
-
-  .portfolio-figure {
-    padding: 1em 8em 1em 8em;
   }
 
   .interactive-space {
