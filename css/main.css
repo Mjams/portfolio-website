@@ -61,10 +61,6 @@ ul {
   padding-top: 7em;
 }
 
-h2, h1, .heading-spacing {
-  padding-left: .75em;
-}
-
 .interactive-space {
   padding: 0 .75em 0 .75em;
 }
@@ -93,9 +89,6 @@ h2, h1, .heading-spacing {
     padding: 0 1em 0 1em;
   }
 
-  h2, h1, .heading-spacing {
-    padding-left: .3333em;
-  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -117,9 +110,6 @@ h2, h1, .heading-spacing {
     padding: 0 .3em 0 .3em;
   }
 
-  h2, h1, .heading-spacing {
-    padding-left: 2.5em;
-  }
 }
 
 @media only screen and (min-width: 90em) {
@@ -136,7 +126,4 @@ h2, h1, .heading-spacing {
     padding: 0 10em 0 10em;
   }
 
-  h2, h1, .heading-spacing {
-    padding-left: 5em;
-  }
 }
