@@ -4,6 +4,12 @@
   tan: #d2b887;
  */
 
+.max-body {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+
 a {
   text-decoration: none;
 }
