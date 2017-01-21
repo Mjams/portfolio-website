@@ -4,6 +4,15 @@
   tan: #d2b887;
  */
 
+.web-button {
+  margin-top: 1.5em;
+  position: absolute;
+  color: white;
+  background-color: #26bbb3;
+  padding: 1em;
+  border-radius: 7px;
+}
+
 .margin-0 {
   margin: 0;
 }
