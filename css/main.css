@@ -4,6 +4,10 @@
   tan: #d2b887;
  */
 
+.margin-0 {
+  margin: 0;
+}
+
 aside {
   font-size: .25em;
 }
