@@ -2,7 +2,14 @@
   purple: #a983bb;
   aqua: #26bbb3;
   tan: #d2b887;
+  lighter tan: #efdcbd;
  */
+
+.click {
+  background-color: #d2b887;
+  color: #fff;
+  padding: .25em;
+}
 
 .web-button {
   position: relative;
@@ -50,7 +57,7 @@ ul {
 
 .nav-a:hover {
   background-color: #d2b887;
-  border-radius: 30px;
+  border-radius: 15px;
 }
 
 .txt {
