@@ -73,9 +73,9 @@ ul {
   padding: 0 .25em 0 .25em;
 }
 
-.used-program-icon {
-  width: 70px;
-  padding: 0 .25em 0 .25em;
+iframe{
+  width: 425px;
+  height: 250px;
 }
 
 @media only screen and (min-width: 38em) {
@@ -88,6 +88,10 @@ ul {
     padding-top: 5em;
   }
 
+  iframe{
+    width: 650px;
+    height: 400px;
+  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -105,6 +109,10 @@ ul {
     padding: 0 .3em 0 .3em;
   }
 
+  iframe{
+    width: 970px;
+    height: 550px;
+  }
 }
 
 @media only screen and (min-width: 90em) {
